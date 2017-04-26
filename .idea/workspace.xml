@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91604836-ab33-4880-859d-db5fe1dcd7a8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/project.min.js" afterPath="$PROJECT_DIR$/js/project.min.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -239,12 +237,20 @@
       <workItem from="1493155990539" duration="2736000" />
       <workItem from="1493166565611" duration="154000" />
       <workItem from="1493217078971" duration="6652000" />
-      <workItem from="1493224265901" duration="912000" />
+      <workItem from="1493224265901" duration="1123000" />
     </task>
+    <task id="LOCAL-00001" summary="linked some files used from d main site">
+      <created>1493225207307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493225207307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15097000" />
+    <option name="totallyTimeSpent" value="15308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
@@ -286,6 +292,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="linked some files used from d main site" />
+    <option name="LAST_COMMIT_MESSAGE" value="linked some files used from d main site" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
